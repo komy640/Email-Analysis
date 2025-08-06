@@ -24,7 +24,8 @@ python3 MailAnalysis.py <file_path>
 ```
 
 ## Example:
-![Uploading WhatsApp Image 2025-08-06 at 12.06.57_b4da0468.jpg…]()
+
+![WhatsApp Image 2025-08-06 at 12 06 57_b4da0468](https://github.com/user-attachments/assets/40d55ba7-a0e4-47cf-a205-fda2158616a8)
 
 
 
