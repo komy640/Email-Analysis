@@ -25,5 +25,6 @@ python3 MailAnalysis.py <file_path>
 
 Example:
 ```bash
-![WhatsApp Image 2025-08-06 at 12 06 57_5dba9c80](https://github.com/user-attachments/assets/3175c17b-2c47-4ac9-b4ec-37fd26aaf29b)
+![Alt text](![WhatsApp Image 2025-08-06 at 12 06 57_b4da0468](https://github.com/user-attachments/assets/dda09d6b-7cc8-4320-b236-a6cc199da25a)
+)
 
